@@ -60,6 +60,12 @@ Add your Google Gemini API key inside the .env file:
 5️⃣ Run the Application
 streamlit run app.py
 
+# Deployment
+AI-powered resume analysis system that evaluates resumes for ATS compatibility and keyword optimization.
+
+🔗 **Live Demo:** [Click here to try it out!](https://ats-system-mehfjurmeckkystbvsjdem.streamlit.app/)
+
+[![Streamlit](https://img.shields.io/badge/Live%20Demo-Streamlit-red)](https://ats-system-mehfjurmeckkystbvsjdem.streamlit.app/)
 
 
 
